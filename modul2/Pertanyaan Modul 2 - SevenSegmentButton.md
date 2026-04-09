@@ -2,7 +2,7 @@
 
 ## 1. Skematik Rangkaian yang Digunakan
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/23e29838-6a58-4a1e-90a4-561963197694" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/cd880fb6-96fd-4963-9e6e-9d7d1f7257da" />
 
 ---
 
