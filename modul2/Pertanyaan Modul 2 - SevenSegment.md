@@ -2,7 +2,7 @@
 
 ## 1. Skematik Rangkaian yang Digunakan
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/350d3663-559c-4038-8cd1-364c48dda6c1" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ddb07905-4eb4-416f-bfc7-22698cab4938" />
 
 **Catatan:** Rangkaian ini menghubungkan pin digital Arduino Uno ke pin-pin penyusun Seven Segment sesuai dengan spesifikasi modul praktikum.
 
